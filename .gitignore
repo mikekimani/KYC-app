@@ -1,3 +1,7 @@
+#git files
+.gitignore
+.gitattributes
+
 # Python
 __pycache__/
 *.pyc
@@ -6,6 +10,7 @@ __pycache__/
 env/
 venv/
 .env
+.venv
 
 # Logs
 logs
